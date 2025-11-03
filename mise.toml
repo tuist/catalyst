@@ -2,3 +2,4 @@
 tuist = "4.97.1"
 rust = "latest"
 bazel = "latest"
+"cargo:git-cliff" = "latest"
