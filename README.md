@@ -5,6 +5,16 @@
 
 Convert [Tuist](https://tuist.dev) projects to [Bazel](https://bazel.build) builds.
 
+## Quick Start ⚡
+
+```bash
+# Install with Mise
+mise use -g ubi:tuist/catalyst
+
+# Run it
+catalyst run
+```
+
 ## Features ✨
 
 - 🔄 **Automatic conversion** from Tuist to Bazel
@@ -14,6 +24,14 @@ Convert [Tuist](https://tuist.dev) projects to [Bazel](https://bazel.build) buil
 - 🎯 **Actual source paths** from Tuist graph
 
 ## Installation 📦
+
+### Option 1: Using Mise (Recommended)
+
+```bash
+mise use -g ubi:tuist/catalyst
+```
+
+### Option 2: From Source
 
 ```bash
 # Install dependencies
