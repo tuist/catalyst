@@ -1,6 +1,6 @@
 # Catalyst ⚗️
 
-> **⚠️ Experimental Project**
+> [!WARNING]
 > This is an experimental tool exploring Tuist → Bazel conversion. Use at your own risk and expect breaking changes.
 
 Convert [Tuist](https://tuist.dev) projects to [Bazel](https://bazel.build) builds.
